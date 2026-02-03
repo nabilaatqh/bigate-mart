@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "nama": "Minimalist Ceramic Vase",
+        "kategori": "FURNITURE",
+        "harga": "Rp 450.000",
+        "gambar_utama": "https://images.unsplash.com/photo-1581783898377-1c85bf937427?q=80&w=800",
+        "galeri": [
+            "https://images.unsplash.com/photo-1612196808214-b7e239e5f6b7?q=80&w=800"
+        ],
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "deskripsi": "Vas keramik premium untuk estetika ruangan.",
+        "spek": ["Bahan: Tanah Liat", "Tinggi: 25cm"],
+        "link": "https://shopee.co.id/bigatemart"
+    },
+    {
+        "id": 2,
+        "nama": "Monitor Gaming 144Hz",
+        "kategori": "ELEKTRONIK",
+        "harga": "Rp 2.500.000",
+        "gambar_utama": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?q=80&w=800",
+        "galeri": [],
+        "video": "",
+        "deskripsi": "Monitor gaming super responsif.",
+        "spek": ["Refresh Rate: 144Hz", "Panel: IPS"],
+        "link": "#"
+    }
+]
