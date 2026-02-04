@@ -1,28 +1,67 @@
 [
     {
-        "id": 1,
-        "nama": "Minimalist Ceramic Vase",
-        "kategori": "FURNITURE",
-        "harga": "Rp 450.000",
-        "gambar_utama": "https://images.unsplash.com/photo-1581783898377-1c85bf937427?q=80&w=800",
+        "id": 5,
+        "nama": "Interactive TV LCD 65'' MHDVision Pro",
+        "kategori": "ELEKTRONIK",
+        "harga": "Hubungi Admin",
+        "gambar_utama": "https://res.cloudinary.com/ddtqffzvy/image/upload/v1770174065/d70b35d01254a79d9435540f9945eb74_s8dfve.png",
         "galeri": [
-            "https://images.unsplash.com/photo-1612196808214-b7e239e5f6b7?q=80&w=800"
+            "https://res.cloudinary.com/ddtqffzvy/image/upload/v1770174065/d70b35d01254a79d9435540f9945eb74_s8dfve.png",
+            "https://res.cloudinary.com/ddtqffzvy/image/upload/v1770174067/66503a0a8a517ba0b025905b9843e664_jgl5aq.jpg"
         ],
-        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
-        "deskripsi": "Vas keramik premium untuk estetika ruangan.",
-        "spek": ["Bahan: Tanah Liat", "Tinggi: 25cm"],
+        "video": "URL_VIDEO_PRODUK_JIKA_ADA",
+        "deskripsi": "Interactive TV LCD MHDVision Pro adalah perangkat pintar yang mendukung kolaborasi modern. Layar sentuh UHD 4K ini memungkinkan integrasi berbagai aplikasi digital, membuat presentasi atau pelajaran menjadi lebih hidup dan interaktif. Cocok untuk ruang rapat, pelatihan, dan edukasi.",
+        "spek": [
+            "Dimensi: Lebar 148 CM x Tinggi 90 CM",
+            "Resolusi: UHD 4K (3840 x 2160)",
+            "Touch: 20 Points Sensitive IR Touch",
+            "Proteksi: Anti-glare Tempered Glass",
+            "OS: Android 13",
+            "Memori: RAM 4GB / Storage 32GB",
+            "Fitur: Wireless Projection & Reverse Control"
+        ],
         "link": "https://shopee.co.id/bigatemart"
     },
     {
-        "id": 2,
-        "nama": "Monitor Gaming 144Hz",
+        "id": 6,
+        "nama": "Interactive TV LCD 85'' MHDVision Pro",
         "kategori": "ELEKTRONIK",
-        "harga": "Rp 2.500.000",
-        "gambar_utama": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?q=80&w=800",
-        "galeri": [],
+        "harga": "Hubungi Admin",
+        "gambar_utama": "https://res.cloudinary.com/ddtqffzvy/image/upload/v1770174065/d70b35d01254a79d9435540f9945eb74_s8dfve.png",
+        "galeri": [
+            "https://res.cloudinary.com/ddtqffzvy/image/upload/v1770174065/d70b35d01254a79d9435540f9945eb74_s8dfve.png",
+            "https://res.cloudinary.com/ddtqffzvy/image/upload/v1770174067/66503a0a8a517ba0b025905b9843e664_jgl5aq.jpg"
+        ],
         "video": "",
-        "deskripsi": "Monitor gaming super responsif.",
-        "spek": ["Refresh Rate: 144Hz", "Panel: IPS"],
-        "link": "#"
+        "deskripsi": "Versi 85 inci untuk ruang yang lebih besar. Memberikan pengalaman visual yang luas dengan teknologi layar sentuh 20 titik yang sangat responsif.",
+        "spek": [
+            "Dimensi: Lebar 195 CM x Tinggi 116 CM",
+            "Resolusi: UHD 4K (3840 x 2160)",
+            "OS: Android 13",
+            "Fitur: Professional Wireless Projection (PC & Mobile)",
+            "Kaca: Anti-glare Tempered Glass"
+        ],
+        "link": "https://shopee.co.id/bigatemart"
+    },
+    {
+        "id": 7,
+        "nama": "Interactive TV LCD 98'' MHDVision Pro",
+        "kategori": "ELEKTRONIK",
+        "harga": "Hubungi Admin",
+        "gambar_utama": "https://res.cloudinary.com/ddtqffzvy/image/upload/v1770174065/d70b35d01254a79d9435540f9945eb74_s8dfve.png",
+        "galeri": [
+            "https://res.cloudinary.com/ddtqffzvy/image/upload/v1770174065/d70b35d01254a79d9435540f9945eb74_s8dfve.png",
+            "https://res.cloudinary.com/ddtqffzvy/image/upload/v1770174067/66503a0a8a517ba0b025905b9843e664_jgl5aq.jpg"
+        ],
+        "video": "",
+        "deskripsi": "Varian terbesar 98 inci untuk aula atau ruang konferensi besar. Mendukung kolaborasi tim secara maksimal dengan kontrol perangkat langsung dari layar.",
+        "spek": [
+            "Dimensi: Lebar 221 CM x Tinggi 134 CM",
+            "Resolusi: UHD 4K (3840 x 2160)",
+            "Fitur Utama: Reverse Control",
+            "Sistem: Android 13",
+            "Penggunaan: Ruang Konferensi & Aula"
+        ],
+        "link": "https://shopee.co.id/bigatemart"
     }
 ]
